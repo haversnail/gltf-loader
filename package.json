@@ -1,6 +1,6 @@
 {
   "name": "gltf-loader",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Webpack loader for glTF files.",
   "main": "index.js",
   "types": "index.d.ts",
