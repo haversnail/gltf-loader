@@ -1,0 +1,5 @@
+.github
+.vscode
+.editorconfig
+.prettierrc.json
+.releaserc.js

@@ -1,0 +1,36 @@
+{
+  "name": "gltf-loader",
+  "version": "0.1.0",
+  "description": "A Webpack loader for glTF files.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "release": "semantic-release"
+  },
+  "keywords": [
+    "webpack",
+    "gltf",
+    "loader",
+    "three",
+    "next"
+  ],
+  "author": "Alex Havermale (https://github.com/haversnail)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haversnail/gltf-loader.git"
+  },
+  "homepage": "https://github.com/haversnail/gltf-loader",
+  "dependencies": {
+    "loader-utils": "^3.2.0"
+  },
+  "peerDependencies": {
+    "webpack": "^5.32.0"
+  },
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "@types/loader-utils": "^2.0.3",
+    "@types/webpack": "^5.28.0",
+    "semantic-release": "^19.0.2"
+  }
+}
