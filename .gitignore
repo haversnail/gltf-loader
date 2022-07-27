@@ -133,3 +133,6 @@ dist
 
 # IDE
 .vscode
+
+# System
+.DS_Store
